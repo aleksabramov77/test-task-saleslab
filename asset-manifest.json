@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-task-saleslab/static/css/main.b738707a.css",
+    "main.js": "/test-task-saleslab/static/js/main.2a16645e.js",
+    "static/media/purple2.svg": "/test-task-saleslab/static/media/purple2.f794ca74d5d2ad5b5d4c5e3eeb79db85.svg",
+    "static/media/purple1.svg": "/test-task-saleslab/static/media/purple1.ff607ecd4d57c21e04142fa52e717a3e.svg",
+    "static/media/green2.svg": "/test-task-saleslab/static/media/green2.ef67087e8c7b7261025739f6399ece49.svg",
+    "static/media/blue1.svg": "/test-task-saleslab/static/media/blue1.a418f7737e15b34959f352488b529cb0.svg",
+    "static/media/red2.svg": "/test-task-saleslab/static/media/red2.7f031e2d9322301694c25395cf5f5f9c.svg",
+    "static/media/green1.svg": "/test-task-saleslab/static/media/green1.d5a5750ec98713b21207bc0a4864519a.svg",
+    "static/media/blue2.svg": "/test-task-saleslab/static/media/blue2.2b5f8b18dc01111d53bf5de4fc9449f2.svg",
+    "static/media/arrow.svg": "/test-task-saleslab/static/media/arrow.612fbb58c23331014672437292a57261.svg",
+    "static/media/red1.svg": "/test-task-saleslab/static/media/red1.656213a753afac9f00814e5acb64a7db.svg",
+    "index.html": "/test-task-saleslab/index.html",
+    "main.b738707a.css.map": "/test-task-saleslab/static/css/main.b738707a.css.map",
+    "main.2a16645e.js.map": "/test-task-saleslab/static/js/main.2a16645e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b738707a.css",
+    "static/js/main.2a16645e.js"
+  ]
+}
