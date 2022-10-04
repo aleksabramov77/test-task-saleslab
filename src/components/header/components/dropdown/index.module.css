@@ -1,0 +1,52 @@
+.container {
+    position: absolute;
+    top: 37px;
+    left: 86px;
+}
+
+.titleWrapper {
+    display: flex;
+    gap: 8.5px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: absolute;
+    padding-block: 6px;
+    top: 20px;
+    width: 167px;
+    height: 182px;
+    background: #FFFFFF;
+    box-shadow: 0 0 2px #EEF4FE, 0 1px 2px #D0DAEB;
+    border-radius: 7px;
+    z-index: 1;
+}
+
+.arrowDown, .arrowUp {
+    transition-duration: 200ms;
+    position: relative;
+    top: 1px;
+}
+
+.arrowDown {
+    transform: rotate(0deg);
+}
+
+.arrowUp {
+    transform: rotate(180deg);
+}
+
+.tooltipItem {
+    height: 34px;
+    padding-inline: 16px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.tooltipItem:hover {
+    color: #75777A;
+    background: #D4DBE9;
+}

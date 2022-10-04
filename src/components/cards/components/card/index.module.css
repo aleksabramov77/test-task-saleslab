@@ -1,0 +1,32 @@
+.container {
+    box-sizing: border-box;
+    width: 294px;
+    min-width: 294px;
+    height: 90px;
+    background: #FFFFFF;
+    box-shadow: 0 0 2px #EEF4FE, 0 1px 2px #D0DAEB;
+    border-radius: 7px;
+    padding: 17px;
+    font-size: 18px;
+    display: flex;
+    gap: 17px;
+    flex-wrap: wrap;
+}
+
+.text {
+    margin-top: 3px;
+}
+
+.title {
+    font-weight: 700;
+    margin-bottom: 2px;
+}
+
+.icon {
+    width: 58px;
+    height: 58px;
+}
+
+.count {
+    font-weight: 700;
+}
