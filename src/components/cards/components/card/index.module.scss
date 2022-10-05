@@ -22,28 +22,27 @@
   &.purple {
     background: linear-gradient(#9D6DB7, #9D6DB7) padding-box,
     linear-gradient(180deg, #C99FE1, #BA83D8) border-box;
-    outline: 1px solid #9D6DB7;
+    box-shadow: 0 0 0 1pt #9D6DB7;
   }
 
   &.green {
     background: linear-gradient(#91D35B, #91D35B) padding-box,
     linear-gradient(180deg, #AADD7F, #93D45F) border-box;
-    outline: 1px solid #7BB34D;
+    box-shadow: 0 0 0 1pt #7BB34D;
   }
 
   &.coral {
     background: linear-gradient(#E76662, #E76662) padding-box,
     linear-gradient(180deg, #EB8A87, #E76A65) border-box;
-    outline: 1px solid #C45753;
+    box-shadow: 0 0 0 1pt #C45753;
   }
 
   &.blue {
     background: linear-gradient(#7DC3FA, #7DC3FA) padding-box,
     linear-gradient(180deg, #9CD2FB, #80C5FA) border-box;
-    outline: 1px solid #6BA6D4;
+    box-shadow: 0 0 0 1pt #6BA6D4;
   }
 }
-
 
 .text {
   margin-top: 3px;
