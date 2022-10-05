@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/test-task-saleslab/static/css/main.72bb8b86.css",
-    "main.js": "/test-task-saleslab/static/js/main.14a24841.js",
-    "static/media/purple2.svg": "/test-task-saleslab/static/media/purple2.f794ca74d5d2ad5b5d4c5e3eeb79db85.svg",
-    "static/media/purple1.svg": "/test-task-saleslab/static/media/purple1.ff607ecd4d57c21e04142fa52e717a3e.svg",
-    "static/media/green2.svg": "/test-task-saleslab/static/media/green2.ef67087e8c7b7261025739f6399ece49.svg",
-    "static/media/blue1.svg": "/test-task-saleslab/static/media/blue1.a418f7737e15b34959f352488b529cb0.svg",
-    "static/media/red2.svg": "/test-task-saleslab/static/media/red2.7f031e2d9322301694c25395cf5f5f9c.svg",
-    "static/media/green1.svg": "/test-task-saleslab/static/media/green1.d5a5750ec98713b21207bc0a4864519a.svg",
-    "static/media/blue2.svg": "/test-task-saleslab/static/media/blue2.2b5f8b18dc01111d53bf5de4fc9449f2.svg",
+    "main.css": "/test-task-saleslab/static/css/main.d5894db3.css",
+    "main.js": "/test-task-saleslab/static/js/main.e92d74af.js",
+    "static/media/purple2.svg": "/test-task-saleslab/static/media/purple2.fa0edc43c6d88e1ac27ef9af9a8eb3cb.svg",
+    "static/media/blue1.svg": "/test-task-saleslab/static/media/blue1.1a19b12c99e27b2d8d6470a9f90d6ab1.svg",
+    "static/media/coral2.svg": "/test-task-saleslab/static/media/coral2.f5fbaf3d42bce8eba205c7d8277cb9d7.svg",
     "static/media/arrow.svg": "/test-task-saleslab/static/media/arrow.612fbb58c23331014672437292a57261.svg",
-    "static/media/red1.svg": "/test-task-saleslab/static/media/red1.656213a753afac9f00814e5acb64a7db.svg",
+    "static/media/purple1.svg": "/test-task-saleslab/static/media/purple1.b3d2460cbc055042041814d1ebe145e5.svg",
+    "static/media/green2.svg": "/test-task-saleslab/static/media/green2.7aa5ccb5c4d8cba7c4ae8bdeee8b9dc6.svg",
+    "static/media/blue2.svg": "/test-task-saleslab/static/media/blue2.461ca18c73955c83d0a7c9355e312096.svg",
     "index.html": "/test-task-saleslab/index.html",
-    "main.72bb8b86.css.map": "/test-task-saleslab/static/css/main.72bb8b86.css.map",
-    "main.14a24841.js.map": "/test-task-saleslab/static/js/main.14a24841.js.map"
+    "static/media/coral1.svg": "/test-task-saleslab/static/media/coral1.c97f26ef474b2d384a42f06fd22911fb.svg",
+    "static/media/green1.svg": "/test-task-saleslab/static/media/green1.eb5896711458f34e29a92eab73c3637d.svg",
+    "main.d5894db3.css.map": "/test-task-saleslab/static/css/main.d5894db3.css.map",
+    "main.e92d74af.js.map": "/test-task-saleslab/static/js/main.e92d74af.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bb8b86.css",
-    "static/js/main.14a24841.js"
+    "static/css/main.d5894db3.css",
+    "static/js/main.e92d74af.js"
   ]
 }
