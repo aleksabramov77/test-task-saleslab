@@ -1,21 +1,15 @@
 import { FC } from "react";
 
-import styles from "./index.module.css";
+import styles from "./index.module.scss";
+import cn from "classnames";
 
 export interface CardProps {
-  color: "purple" | "green" | "red" | "blue";
+  color: "purple" | "green" | "coral" | "blue";
   icon: any;
   title: string;
   count: number;
   amount?: number;
 }
-
-const COLOR_MAP: Record<CardProps["color"], string> = {
-  purple: "#C37ADD",
-  green: "#63D422",
-  red: "#F56C6C",
-  blue: "#2BBEF8",
-};
 
 export const Card: FC<CardProps> = ({ color, icon, title, count, amount }) => {
   const getNumberWithSpaces = (number: number): string =>
@@ -23,11 +17,11 @@ export const Card: FC<CardProps> = ({ color, icon, title, count, amount }) => {
 
   return (
     <div className={styles.container}>
-      <img className={styles.icon} src={icon} alt={title} />
+      <div className={cn(styles.box, styles[color])}>
+        <img className={styles.icon} src={icon} alt={title} />
+      </div>
       <div className={styles.text}>
-        <div className={styles.title} style={{ color: COLOR_MAP[color] }}>
-          {title}
-        </div>
+        <div className={cn(styles.title, styles[color])}>{title}</div>
         <span className={styles.count}>{count}</span>
         {amount && (
           <>
